@@ -7,16 +7,15 @@ assignees: ''
 ---
 
 **Is your feature request related to a problem? Please describe.**
-
-<!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
+Hi, I use a Calybox 1020 WT at home for control my heating system. In Homekit, with your homebridge-tydom I can control the heating-type (as confort, economy, frost-free) but I can't set a temperature. You can see the screenshot, the accessory is not respond. 
 
 **Related hardware**
 
-<!-- If applicable, indicate the device(s) official product name (eg. TYXIA 5610). -->
+Calybox 1020 WT
 
 **Describe the solution you'd like**
 
-<!-- A clear and concise description of what you want to happen. -->
+Could you support this hardware please ?
 
 **Dumps**
 
